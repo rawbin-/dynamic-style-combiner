@@ -1,0 +1,25 @@
+{
+  "name": "dynamic-style-combiner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rawbin-/dynamic-style-combiner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rawbin-/dynamic-style-combiner/issues"
+  },
+  "homepage": "https://github.com/rawbin-/dynamic-style-combiner#readme",
+  "dependencies": {
+    "css": "^2.2.4",
+    "html-minifier": "^4.0.0",
+    "puppeteer": "^2.0.0"
+  }
+}
